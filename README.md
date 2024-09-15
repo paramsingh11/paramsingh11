@@ -1,4 +1,4 @@
-<h1 align="Left">🏂 Hi,I'm Param Singh</h1>
+<h1 align="Left">🏂 Hi, I'm Param Singh</h1>
 <h3 align="Left">Software Engineer, Data Analyst, and Cloud Engineering enthusiast with a passion for data-driven solutions and cloud technologies. Experienced in leveraging data to drive insights, optimize processes, and develop scalable systems. Focused on delivering innovative projects that integrate cloud computing and advanced analytics.</h3>
 
 - 🌱 I’m currently learning **Data Analytics and Dataviz**
