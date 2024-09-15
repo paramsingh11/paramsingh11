@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Data Analytics and Dataviz**
 
-- 🤝 I’m looking for help with **Data Science and Analysis Projects**
+- 🤝 I’m looking for help with **Data Science and Cloud Engineering Projects**
 
-- 💬 Ask me about **Data Science, Cloud Technology**
+- 💬 Ask me about **Data Science and Cloud Technology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
